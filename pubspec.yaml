@@ -64,6 +64,7 @@ flutter:
   # example:
   assets:
     - assets/images/education.png
+    - assets/images/bg.jpg
 
   fonts:
     - family: Kanit
